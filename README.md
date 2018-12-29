@@ -1,4 +1,4 @@
-Algotithm keccakd
+Algorithm keccakd
 
 Pool
 https://eu.3dcoin.xyz/
